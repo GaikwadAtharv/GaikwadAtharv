@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharv Gaikwad</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img src="[https://giphy.com/gifs/K5kfQExKk731K](https://camo.githubusercontent.com/bca955a442fa853f2f6c844d05d7943c5444f5fc3df368b91b1ba748cb4172c1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4b356b665145784b6b3733314b2f67697068792e676966)" alt="">
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px" align="right" alt="">
 
 - 🌱 I’m currently learning **DSA,WEB DEVELOPMENT**
 
